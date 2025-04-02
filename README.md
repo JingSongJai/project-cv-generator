@@ -1,4 +1,4 @@
-Node.JS Chat
+CV Generator
 ============
 This is a WPF application powered by JingSong and all members in Group5 that provides the main functions you'd expect from a cv generator such as many templates, beautiful templates, etc.
 
